@@ -1,6 +1,6 @@
 @media (min-width: 1px) and (max-width: 640px){
 	#bienvenida{
-	padding-top: 13em;
+	padding-top: 18em;
 	width: 90vw;
 	height: 45vh;
 	/*background-color: rgba(219, 219, 219, 0.3);
@@ -10,10 +10,20 @@
 	#bienvenida p{
 	font-size: 12px;
 	}
+
+	#foundation{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	}
 }
 
 @media (min-width: 641px) and (max-width: 1024px){
 	#bienvenida{
 	padding-top: 50%;
+	}
+
+	#foundation{
+	padding-top: 5%;
+	padding-bottom: 5%;
 	}
 }
