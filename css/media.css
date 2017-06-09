@@ -1,0 +1,19 @@
+@media (min-width: 1px) and (max-width: 640px){
+	#bienvenida{
+	padding-top: 13em;
+	width: 90vw;
+	height: 45vh;
+	/*background-color: rgba(219, 219, 219, 0.3);
+	background-position: 50% 30%;*/
+	}
+
+	#bienvenida p{
+	font-size: 12px;
+	}
+}
+
+@media (min-width: 641px) and (max-width: 1024px){
+	#bienvenida{
+	padding-top: 50%;
+	}
+}
