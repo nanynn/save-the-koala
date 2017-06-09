@@ -21,8 +21,12 @@ body{
 	color: #fff;
 }
 
-.navegador .links{
+#first-section .navegador .links{
 	color: #fff;
+}
+
+#first-section .navegador .links:hover{
+	color: #A89F68;
 }
 
 #first-section{
@@ -54,4 +58,14 @@ body{
 	background-color: rgba(255, 255, 255, 0.5);
 	color: #000;
 	font-style: italic;
+}
+
+
+#second-section{
+	display: inline-block;
+}
+
+
+#second-section{
+	padding: 3em;
 }
