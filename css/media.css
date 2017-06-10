@@ -22,9 +22,22 @@
 	.third-section img{
 		border: 0.5em solid #fff;
 	}
+	.texto{
+		padding-bottom: 5%;
+	}
 	.caja-texto{
 	padding-top: 10%;
 	padding-left: 0;
+	}
+	#donate{
+		height: 200vh;
+	}
+	#donate .info{
+		padding-bottom: 10%;
+	}
+	
+	footer{
+		height: 40vh;
 	}
 }
 
