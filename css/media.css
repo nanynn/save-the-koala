@@ -15,6 +15,17 @@
 	padding-top: 5%;
 	padding-bottom: 5%;
 	}
+
+	.third-section{
+		padding: 5%;
+	}
+	.third-section img{
+		border: 0.5em solid #fff;
+	}
+	.caja-texto{
+	padding-top: 10%;
+	padding-left: 0;
+	}
 }
 
 @media (min-width: 641px) and (max-width: 1024px){
